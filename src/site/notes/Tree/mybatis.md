@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mybatis/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2022-08-05T17:43:19.036+08:00","updated":"2023-08-27T03:49:40.296+08:00"}
+{"dg-publish":true,"permalink":"/tree/mybatis/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2022-08-05T17:43:19.036+08:00","updated":"2023-08-27T04:21:00.344+08:00"}
 ---
 
 
@@ -482,4 +482,3 @@ public User selectByld(int id);
 ```
 
 **注解完成简单功能 配置文件完成复杂功能**
-
