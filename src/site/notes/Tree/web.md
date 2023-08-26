@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/web/"}
+{"dg-publish":true,"permalink":"/tree/web/","tags":["CS/web"],"created":"2022-08-02T16:41:31.939+08:00","updated":"2023-08-27T02:59:15.460+08:00"}
 ---
 
 # Web technologies 
