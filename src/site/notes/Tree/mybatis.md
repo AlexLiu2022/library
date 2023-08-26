@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mybatis/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2022-08-05T17:43:19.036+08:00","updated":"2023-08-27T04:32:54.022+08:00"}
+{"dg-publish":true,"permalink":"/tree/mybatis/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2022-08-05T17:43:19.036+08:00","updated":"2023-08-27T04:41:57.387+08:00"}
 ---
 
 
@@ -316,7 +316,7 @@ where
 2. 添加订单项，订单项中需要设置所属订单的id
 ```xml
 <insert id="addOrder"useGeneratedKeys="true"keyProperty="id">
-	insert into tb_order(payment,payment_type,status) values {#payment},#{paymentType},#{status});
+	insert into tb_order(payment,payment_type,status) values #{payment},#{paymentType},#{status});
 </insert>
 ```
 ```xml
