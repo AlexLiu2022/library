@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tree/library/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tree/library/","tags":["gardenEntry"],"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-27T01:27:48.473+08:00"}
 ---
 
 
-<h1> My Knowledge Library. <a href = "https://eating.work" target = "_self"><span style = "color:orange">To Blog.</span></a></h1>
+<h1> My Knowledge Library. <a href = "https://eating.work" target = "_self"><strong><span style = "color:orange">To Blog.</span></strong></a></h1>
 
->It's for my own reference and may be mixed with Chinese.
-==Only few notes are public==, mainly in [[Tree/CS\|Computer Science]] section, and contents are subject to change. Check it at [Github](https://github.com/AlexLiu2022/library)
+>This is for my own reference, so there may be Chinese mixed in. I will try to make it helpful to others as well.
+==Only few notes are made public==, mainly in [[Tree/CS\|Computer Science]] section, and contents are subject to change. Check it at [Github](https://github.com/AlexLiu2022/library)
 
 # Subjects
 
