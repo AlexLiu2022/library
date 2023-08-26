@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/tree/algorithms/","created":"2022-08-23T16:11:15.988+08:00","updated":"2023-08-26T19:55:44.563+08:00"}
+{"dg-publish":true,"permalink":"/tree/algorithms/","tags":["CS/algorithms"],"created":"2022-08-23T16:11:15.988+08:00","updated":"2023-08-27T03:43:35.713+08:00"}
 ---
-
 
 - [[Tree/data-structure\|data-structure]] to implement algorithm
 - My [[Tree/problem-set-of-algorithms\|problem-set-of-algorithms]]
@@ -153,7 +152,7 @@ see [[Tree/data-structure#Heap\|data-structure#Heap]]
 
 
 
-# 拜占廷
+# 拜占庭
 
 Now it's a question related to [[blockchain\|blockchain]]
 
