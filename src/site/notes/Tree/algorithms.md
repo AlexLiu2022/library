@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/algorithms/"}
+{"dg-publish":true,"permalink":"/tree/algorithms/","created":"2022-08-23T16:11:15.988+08:00","updated":"2023-08-26T19:55:44.563+08:00"}
 ---
 
 
