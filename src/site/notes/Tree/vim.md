@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/vim/","tags":["CS/operating-system/linux","tools/editors"],"created":"2021-10-27T19:24:21.000+08:00","updated":"2023-08-27T05:00:52.265+08:00"}
+{"dg-publish":true,"dg-path":"  vim.md","permalink":"/vim/","tags":["CS/operating-system/linux","tools/editors"],"created":"2021-10-27T19:24:21.000+08:00","updated":"2023-08-27T05:00:52.265+08:00"}
 ---
 
 
