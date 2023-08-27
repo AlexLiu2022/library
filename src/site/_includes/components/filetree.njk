@@ -51,7 +51,7 @@
          <div class="sidebar-nav">
             <ul>
                 <li class="current">
-                    Files
+                    All Notes
                 </li>
                 <li>
                     Contents
@@ -61,9 +61,9 @@
             <div class="sidebar-panel-container">
                 <div class="item" style="display: block;">
                 <div class="site-overview">
-               {%- for fileOrFolderName, fileOrFolder in filetree -%}
+               {% for fileOrFolderName, fileOrFolder in filetree -%}
                   {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
-               {%- endfor -%}
+               {% endfor -%}
                 </div>
                 </div>
                 {% if settings.dgShowToc === true %}
