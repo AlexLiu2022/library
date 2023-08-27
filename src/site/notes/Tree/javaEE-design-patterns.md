@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java-ee-design-patterns/","tags":["CS/design-patterns"],"created":"2022-08-15T20:08:56.581+08:00","updated":"2023-08-27T04:45:05.659+08:00"}
+{"dg-publish":true,"dg-path":"  javaEE-design-patterns.md","permalink":"/java-ee-design-patterns/","tags":["CS/design-patterns"],"created":"2022-08-15T20:08:56.581+08:00","updated":"2023-08-27T04:45:05.659+08:00"}
 ---
 
 
