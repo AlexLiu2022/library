@@ -1,13 +1,32 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+body nav.toc ol {
+    list-style:none;
+    padding-left:10px;
+    border-left:2px solid var(--background-secondary);
+}
+
+body nav.toc>ol {
+    padding-left:0;
+    border-left:none;
+}
+
+body .toc-container li::before {
+    content:"" !important;
+}
+
+
+.sidebar .toc-container {
+    max-height:unset;
+}
+
+@media(max-width: 1490px) {
+    body .toc {
+        display:block !important;
+    }
+}
+
+
+@media(max-width: 1400px) {
+    .sidebar .toc-container {
+        max-height:320px;
+    }
 }
