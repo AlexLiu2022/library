@@ -48,3 +48,20 @@ body .toc-container li::before {
         max-height:320px;
     }
 }
+
+li.current {
+    border-bottom: 1px solid;
+}
+
+.sidebar-nav li {
+    float: left;
+    list-style-type: none;
+    padding: 0 10px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.item {
+    display: none;
+}

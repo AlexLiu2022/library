@@ -22,27 +22,36 @@
     {% endif %}
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
-      {% endif %}
-
-      <div class="header-meta">
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
+        {% if settings.dgShowInlineTitle === true %}
+          <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
-      </div>
+        <div class="header-meta">
+          {% if settings.dgShowTags === true and tags %}
+            <div class="header-tags">
+              {% for tag in tags %}
+                {% if tag != 'gardenEntry' and tag !='note' %}
+                  <a class="tag" onclick="toggleTagSearch(this)">
+                    #{{tag}}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+          <div class="timestamps">
+            {%- if meta.timestampSettings.showCreated and created -%}
+            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+            {%- endif -%}
+            {%- if meta.timestampSettings.showUpdated and updated -%}
+            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+            {%- endif -%}
+          </div>
+          {%- endif -%}
+        </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
-      {% for imp in dynamics.index.header %}
+      {% for imp in dynamics.notes.header %}
         {% include imp %}
       {% endfor %}
       </header>
@@ -76,4 +85,24 @@
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
     </body>
+    
+  <script>
+var lis = document.querySelectorAll('div.sidebar-nav li');
+var items = document.querySelectorAll('.item');
+for (var i = 0; i < lis.length; i++) {
+    lis[i].setAttribute('data-index', i);
+    lis[i].onclick = function () {
+        for (var i = 0; i < lis.length; i++) {
+            lis[i].className = '';
+        }
+        this.className = 'current';
+        var index = this.getAttribute('data-index');
+        for (var j = 0; j < items.length; j++) {
+            items[j].style.display = 'none';
+        }
+        items[index].style.display = 'block';
+    }
+}
+</script>   
+
   </html>
