@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/javascript/","tags":["CS/web","CS/programming-languages "],"created":"2022-08-02T16:48:26.018+08:00","updated":"2023-08-27T03:02:33.781+08:00"}
+{"dg-publish":true,"dg-path":"  javascript.md","permalink":"/javascript/","tags":["CS/web","CS/programming-languages "],"created":"2022-08-02T16:48:26.018+08:00","updated":"2023-08-27T03:02:33.781+08:00"}
 ---
 
 - [[Tree/typescript\|typescript]], superset of javascript .
