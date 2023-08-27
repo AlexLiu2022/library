@@ -4,9 +4,7 @@
 body {
     --graph-main:var(--text-accent);
     --graph-muted:rgba(126, 126, 126, 0.5);
-    --h1-font: 'Noto Serif SC', serif;
-    --h2-font: 'Noto Serif SC', serif;
-    --h3-font: 'Noto Serif SC', serif;
+    --font-default: 'Noto Serif SC', serif;
 }
 
 .callout {
@@ -16,7 +14,6 @@ body {
 @media(max-width: 1490px) {
     body .graph {
         display:block !important;
-        order:-1;
     }
 }
 
@@ -43,10 +40,8 @@ body .toc-container li::before {
 @media(max-width: 1490px) {
     body .toc {
         display:block !important;
-        order:1;
     }
 }
-
 
 @media(max-width: 1000px) {
     .sidebar .toc-container {
