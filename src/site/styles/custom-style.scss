@@ -126,6 +126,66 @@ body nav.filetree-sidebar h1::before {
     height:3em;
 }
 
+.sidebar-container {
+    padding-right: 20px;
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 87%;
+}
+
+.toc {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    ol {
+        list-style: none;
+        padding-left: 10px;
+        border-left: 2px solid var(--background-secondary);
+    }
+
+    & > ol {
+        padding-left: 0;
+        border-left: none;
+    }
+}
+
+.toc-container {
+    overflow-y: auto;
+    border-left: 1px solid var(--text-accent);
+    ul {
+        list-style-type: none;
+        padding-inline-start: 15px !important;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    ul:not(:first-child) {
+        margin-bottom: 3px;
+    }
+
+    li {
+        padding-top: 4px;
+        &::before {
+            content: "# " !important;
+            color: var(--text-accent);
+            font-size: 0.8rem;
+        }
+        a {
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.toc-title-container {
+    display: flex;
+    justify-content: flex-start;
+}
+
 li.current {
     border-bottom: 1px solid;
 }
