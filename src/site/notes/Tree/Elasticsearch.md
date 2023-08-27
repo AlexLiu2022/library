@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/elasticsearch/","tags":["CS/microservices/middlewares/elastic-stack"],"created":"2022-09-10T15:28:01.621+08:00","updated":"2023-08-27T05:14:16.758+08:00"}
+{"dg-publish":true,"dg-path":"  Elasticsearch.md","permalink":"/elasticsearch/","tags":["CS/microservices/middlewares/elastic-stack"],"created":"2022-09-10T15:28:01.621+08:00","updated":"2023-08-27T05:14:16.758+08:00"}
 ---
 
 
