@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/network/","tags":["CS/network"],"created":"2022-08-11T17:33:04.703+08:00","updated":"2023-08-27T03:27:40.160+08:00"}
+{"dg-publish":true,"dg-path":"  network.md","permalink":"/network/","tags":["CS/network"],"created":"2022-08-11T17:33:04.703+08:00","updated":"2023-08-27T03:27:40.160+08:00"}
 ---
 
 
