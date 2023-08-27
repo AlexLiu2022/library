@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/servlet-request/","tags":["CS/programming-languages/java/javaweb/web-server/servlet"],"created":"2022-08-13T02:03:53.109+08:00","updated":"2023-08-27T03:51:47.639+08:00"}
+{"dg-publish":true,"dg-path":"  ServletRequest.md","permalink":"/servlet-request/","tags":["CS/programming-languages/java/javaweb/web-server/servlet"],"created":"2022-08-13T02:03:53.109+08:00","updated":"2023-08-27T03:51:47.639+08:00"}
 ---
 
 
