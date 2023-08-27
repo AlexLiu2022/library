@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java-frameworks/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:04:09.409+08:00","updated":"2023-08-27T03:46:40.432+08:00"}
+{"dg-publish":true,"dg-path":"  java-frameworks.md","permalink":"/java-frameworks/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:04:09.409+08:00","updated":"2023-08-27T03:46:40.432+08:00"}
 ---
 
 
