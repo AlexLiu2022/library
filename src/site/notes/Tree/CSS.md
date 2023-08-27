@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/css/","tags":["CS/web"],"created":"2022-08-15T02:34:30.097+08:00","updated":"2023-08-27T03:01:45.443+08:00"}
+{"dg-publish":true,"dg-path":"  CSS.md","permalink":"/css/","tags":["CS/web"],"created":"2022-08-15T02:34:30.097+08:00","updated":"2023-08-27T03:01:45.443+08:00"}
 ---
 
 More detalis see [here](https://developer.mozilla.org/en-US/docs/Web/CSS)   (MDN web Docs on CSS)
