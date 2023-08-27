@@ -11,10 +11,54 @@ body {
     font-family: 'Noto Serif SC', serif;
 }
 
-@media(max-width: 1490px) {
-    body .graph {
-        display:block !important;
-    }
+body .graph {
+    flex:unset !important;
+}
+
+body .sidebar-container>div:not(.graph) {
+    width:320px;
+    max-height:365px;
+    overflow-y:auto;
+}
+
+body nav.filetree-sidebar {
+    top:85px;
+    left:20px;
+    position:fixed;
+    height:calc(100% - 160px);
+    display:flex;
+    flex-direction:column;
+    border-radius:10px;
+    overflow-x:hidden;
+}
+
+body nav.filetree-sidebar .search-button {
+    margin:10px;
+    min-width:160px;
+    margin-bottom:20px;
+}
+
+body nav.filetree-sidebar>.folder {
+    flex:1;
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin-right:-10px;
+}
+
+body nav.filetree-sidebar .notelink {
+    border-radius:10px;
+    padding:5px 0 5px 8px;
+}
+
+body nav.filetree-sidebar .notelink a::before {
+    margin-right:2px;
+}
+
+body nav.filetree-sidebar .notelink.active-note {
+    transform:unset;
+}
+body nav.filetree-sidebar .fa-sticky-note {
+    display:none !important;
 }
 
 body nav.toc ol {
@@ -32,20 +76,39 @@ body .toc-container li::before {
     content:"" !important;
 }
 
+body nav.navbar {
+    top:10px;
+    right:10px;
+    left:10px;
+    width:calc(100% - 20px);
+    border-radius:10px;
+    z-index:99999;
+}
 
 .sidebar .toc-container {
     max-height:unset;
 }
 
+.sidebar .backlinks {
+    flex:unset;
+}
+
 @media(max-width: 1490px) {
-    body .toc {
+    body .graph {
         display:block !important;
+        order:2;
+    }
+
+    body .sidebar-container {
+        flex-wrap:wrap;
+        flex-direction:row;
+        justify-content:space-between;
     }
 }
 
-@media(max-width: 1000px) {
-    .sidebar .toc-container {
-        max-height:320px;
+@media(max-width: 575.99px) {
+    body #forest-graph .forest-body {
+        transform:rotate(45deg) scale(0.9);
     }
 }
 
