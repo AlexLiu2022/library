@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/http/","tags":["CS/web","CS/programming-languages/java/javaweb"],"created":"2022-08-11T02:42:36.729+08:00","updated":"2023-08-27T04:57:01.370+08:00"}
+{"dg-publish":true,"dg-path":"  HTTP.md","permalink":"/http/","tags":["CS/web","CS/programming-languages/java/javaweb"],"created":"2022-08-11T02:42:36.729+08:00","updated":"2023-08-27T04:57:01.370+08:00"}
 ---
 
 
