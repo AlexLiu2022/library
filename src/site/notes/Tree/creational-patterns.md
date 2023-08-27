@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/creational-patterns/","tags":["CS/design-patterns"],"created":"2022-08-15T20:05:00.499+08:00","updated":"2023-08-27T04:43:13.516+08:00"}
+{"dg-publish":true,"dg-path":"  creational-patterns.md","permalink":"/creational-patterns/","tags":["CS/design-patterns"],"created":"2022-08-15T20:05:00.499+08:00","updated":"2023-08-27T04:43:13.516+08:00"}
 ---
 
 
