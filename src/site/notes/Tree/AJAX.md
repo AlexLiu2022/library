@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/ajax/","tags":["CS/web"],"created":"2022-08-14T16:30:47.411+08:00","updated":"2023-08-27T03:03:48.678+08:00"}
+{"dg-publish":true,"dg-path":"  AJAX.md","permalink":"/ajax/","tags":["CS/web"],"created":"2022-08-14T16:30:47.411+08:00","updated":"2023-08-27T03:03:48.678+08:00"}
 ---
 
 
