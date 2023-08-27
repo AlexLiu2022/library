@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java/","tags":["CS/programming-languages"],"created":"2022-08-02T10:41:41.093+08:00","updated":"2023-08-27T03:46:01.118+08:00"}
+{"dg-publish":true,"dg-path":"  java.md","permalink":"/java/","tags":["CS/programming-languages"],"created":"2022-08-02T10:41:41.093+08:00","updated":"2023-08-27T03:46:01.118+08:00"}
 ---
 
 
