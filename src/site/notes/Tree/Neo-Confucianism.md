@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/neo-confucianism/","tags":["philosophy/neo-confucianism"],"created":"2023-08-21T03:47:17.162+08:00","updated":"2023-08-27T03:23:51.943+08:00"}
+{"dg-publish":true,"dg-path":"  Neo-Confucianism.md","permalink":"/neo-confucianism/","tags":["philosophy/neo-confucianism"],"created":"2023-08-21T03:47:17.162+08:00","updated":"2023-08-27T03:23:51.943+08:00"}
 ---
 
 
