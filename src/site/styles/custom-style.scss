@@ -112,6 +112,20 @@ body nav.navbar {
     }
 }
 
+body nav.navbar .navbar-inner h1::before {
+    content:" ";
+    display:inline-block;
+    width:1em;
+    height:1.2em;
+}
+
+body nav.filetree-sidebar h1::before {
+    content:" ";
+    display:block;
+    width:100%;
+    height:3em;
+}
+
 li.current {
     border-bottom: 1px solid;
 }
