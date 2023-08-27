@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/shell/","tags":["CS/operating-system/linux"],"created":"2021-10-16T23:24:20.000+08:00","updated":"2023-08-27T05:00:15.095+08:00"}
+{"dg-publish":true,"dg-path":"  shell.md","permalink":"/shell/","tags":["CS/operating-system/linux"],"created":"2021-10-16T23:24:20.000+08:00","updated":"2023-08-27T05:00:15.095+08:00"}
 ---
 
 
