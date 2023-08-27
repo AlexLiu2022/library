@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/data-structure/","tags":["CS/algorithms"],"created":"2022-09-11T16:45:18.887+08:00","updated":"2023-08-27T04:58:02.245+08:00"}
+{"dg-publish":true,"dg-path":"  data-structure.md","permalink":"/data-structure/","tags":["CS/algorithms"],"created":"2022-09-11T16:45:18.887+08:00","updated":"2023-08-27T04:58:02.245+08:00"}
 ---
 
 
