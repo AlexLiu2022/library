@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/xml/","tags":["CS/mark-up-languages","CS/data-format"],"created":"2022-08-14T17:40:38.437+08:00","updated":"2023-08-27T03:05:50.211+08:00"}
+{"dg-publish":true,"dg-path":"  XML.md","permalink":"/xml/","tags":["CS/mark-up-languages","CS/data-format"],"created":"2022-08-14T17:40:38.437+08:00","updated":"2023-08-27T03:05:50.211+08:00"}
 ---
 
 
