@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/maven/","tags":["CS/programming-languages/java","tools/project-management"],"created":"2022-08-07T04:01:46.236+08:00","updated":"2023-08-27T03:47:20.678+08:00"}
+{"dg-publish":true,"dg-path":"  maven.md","permalink":"/maven/","tags":["CS/programming-languages/java","tools/project-management"],"created":"2022-08-07T04:01:46.236+08:00","updated":"2023-08-27T03:47:20.678+08:00"}
 ---
 
 
