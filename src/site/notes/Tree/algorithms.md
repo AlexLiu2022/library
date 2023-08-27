@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/algorithms/","tags":["CS/algorithms"],"created":"2022-08-23T16:11:15.988+08:00","updated":"2023-08-27T03:43:35.713+08:00"}
+{"dg-publish":true,"dg-path":"  algorithms.md","permalink":"/algorithms/","tags":["CS/algorithms"],"created":"2022-08-23T16:11:15.988+08:00","updated":"2023-08-27T03:43:35.713+08:00"}
 ---
 
 - [[Tree/data-structure\|data-structure]] to implement algorithm
