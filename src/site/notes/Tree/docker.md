@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/docker/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T16:03:55.456+08:00","updated":"2023-08-27T05:13:41.629+08:00"}
+{"dg-publish":true,"dg-path":"  docker.md","permalink":"/docker/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T16:03:55.456+08:00","updated":"2023-08-27T05:13:41.629+08:00"}
 ---
 
 
