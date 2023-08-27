@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java-network-programming/","tags":["CS/network","CS/programming-languages/java "],"created":"2022-08-11T18:20:23.851+08:00","updated":"2023-08-27T03:28:36.045+08:00"}
+{"dg-publish":true,"dg-path":"  java-network-programming.md","permalink":"/java-network-programming/","tags":["CS/network","CS/programming-languages/java "],"created":"2022-08-11T18:20:23.851+08:00","updated":"2023-08-27T03:28:36.045+08:00"}
 ---
 
 
