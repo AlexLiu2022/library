@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/vue-js/","tags":["CS/programming-languages/javascript/javascript-frameworks","CS/web/javascript/javascript-framworks"],"created":"2022-08-15T02:43:37.053+08:00","updated":"2023-08-27T03:41:11.397+08:00"}
+{"dg-publish":true,"dg-path":"  Vue.js.md","permalink":"/vue-js/","tags":["CS/programming-languages/javascript/javascript-frameworks","CS/web/javascript/javascript-framworks"],"created":"2022-08-15T02:43:37.053+08:00","updated":"2023-08-27T03:41:11.397+08:00"}
 ---
 
 
