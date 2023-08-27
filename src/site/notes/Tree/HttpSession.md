@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/http-session/","tags":["#CS/web/session/session-tracking","#CS/programming-languages/java/javaweb/session/session-tracking"],"created":"2022-08-14T02:24:57.294+08:00","updated":"2023-08-27T03:14:01.598+08:00"}
+{"dg-publish":true,"dg-path":"  HttpSession.md","permalink":"/http-session/","tags":["#CS/web/session/session-tracking","#CS/programming-languages/java/javaweb/session/session-tracking"],"created":"2022-08-14T02:24:57.294+08:00","updated":"2023-08-27T03:14:01.598+08:00"}
 ---
 
 
