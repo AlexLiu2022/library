@@ -47,14 +47,14 @@
                 {% include "components/searchButton.njk" %}
             </div>
         {%endif%}
-         <div class="folder" x-data="true">
+         <div class="folder" x-data="{isOpen: true}">
          <div class="sidebar-nav">
             <ul>
                 <li class="current">
                     All Notes
                 </li>
                 <li>
-                    Contents
+                    current TOC  
                 </li>
             </ul>
         </div>
