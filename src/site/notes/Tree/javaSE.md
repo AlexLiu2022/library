@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-08-27T03:46:25.399+08:00"}
+{"dg-publish":true,"permalink":"/tree/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-08-27T13:29:42.232+08:00"}
 ---
 
 
@@ -63,8 +63,8 @@ javadoc -d foldername  -labelA -labelB sourcecode
  ### 代码规范
 
 1. 类、方法的注释，要以**javadoc**的方式来写
-2.  非Java Doc的注释，往往是给代码的维护者看的，着重告述读者为什么这样写，如何修改，注意什么问题等
-3.  使用tab操作，实现缩进,默认整体向右边移动，时候用shift+tab整体向左移
+2.  非Java Doc的注释是给代码的维护者看的，着重告诉读者为什么这样写，如何修改，有何注意事项... 
+3.  使用tab操作实现缩进，默认整体右移，有时用shift+tab整体左移
 4.  运算符和 = 两边习惯性各加一个空格
 5.  源文件使用==utf-8==编码
 6.  行宽度不要超过80字符
@@ -75,7 +75,7 @@ javadoc -d foldername  -labelA -labelB sourcecode
 API（Application Programming Interface, 应用程序编程接口）
 
 #### 查阅方法
-按照 软件包>> 接口/类/异常/... >>字段/ 成员方法（方法）/构造器（构造方法)/...  的层次查找
+按照 软件包 >> 接口/类/异常/... >>字段/ 成员方法（方法）/构造器（构造方法)/...  的层次查找
 或直接索引
 
 ## 变量
@@ -90,13 +90,17 @@ API（Application Programming Interface, 应用程序编程接口）
 
 	Java整型常量默认为int型，==声明long型常量需后加'l'或'L'==
 	eg. long a = 1L (不加也可以是因为发生了自动类型转换)
-	
+
 - 浮点类型：`float`[4] `double`[8]
 
 	Java的浮点型常量默认为`double`型，==声明`float`型常量，须后加'f'或'F'==
+
 ##### 字符型
+
 `char`[2]
+
 ##### 布尔型
+
 `boolean`[1]
 
 #### 引用数据类型
@@ -115,18 +119,19 @@ API（Application Programming Interface, 应用程序编程接口）
 	
 ==有多种类型的数据混合运算时，系统首先自动将所有数据转换成容量最大的那种数据类型，然后再进行计算。==
 
-当我们把精度（容量）大的数据类型赋值给精度（容量）小的数据类型时，就会报错，反之就会进行自动类型转换。
+把精度（容量）大的数据类型赋值给精度（容量）小的数据类型时会报错，反之会进行自动类型转换。
 
 `byte` , `short`和`char`之间不会相互自动转换
 
 把具体数赋给`byte` 先判断范围 符合范围即可  如 `byte = 10` 正确
 
-`byte`,`short`,`char`他们三者可以计算，在计算时首先转换为`int`类型。
+`byte`,`short`,`char`三者可以计算，在计算时首先转换为`int`类型。
 
 `boolean`不参与转换
 
 自动提升原则：表达式结果的类型自动提升为操作数中最大的类型
-	
+
+
 #### 强制类型转换
 
 ## 运算符
