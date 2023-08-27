@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mark-down/","tags":["CS/mark-up-languages"],"created":"2022-08-15T01:17:14.164+08:00","updated":"2023-08-27T04:54:41.810+08:00"}
+{"dg-publish":true,"dg-path":"  mark-down.md","permalink":"/mark-down/","tags":["CS/mark-up-languages"],"created":"2022-08-15T01:17:14.164+08:00","updated":"2023-08-27T04:54:41.810+08:00"}
 ---
 
 
