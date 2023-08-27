@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/architecture/","tags":["CS"],"created":"2022-10-03T16:24:06.996+08:00","updated":"2023-08-27T03:40:21.184+08:00"}
+{"dg-publish":true,"dg-path":"  architecture.md","permalink":"/architecture/","tags":["CS"],"created":"2022-10-03T16:24:06.996+08:00","updated":"2023-08-27T03:40:21.184+08:00"}
 ---
 
 
