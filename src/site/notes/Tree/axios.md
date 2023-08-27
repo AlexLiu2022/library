@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/axios/","tags":["CS/web/AJAX"],"created":"2022-08-14T20:50:21.000+08:00","updated":"2023-08-27T03:04:22.888+08:00"}
+{"dg-publish":true,"dg-path":"  axios.md","permalink":"/axios/","tags":["CS/web/AJAX"],"created":"2022-08-14T20:50:21.000+08:00","updated":"2023-08-27T03:04:22.888+08:00"}
 ---
 
 
