@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mysql/","tags":["CS/database"],"created":"2022-08-02T01:12:16.575+08:00","updated":"2023-08-27T13:23:13.161+08:00"}
+{"dg-publish":true,"dg-path":"  mysql.md","permalink":"/mysql/","tags":["CS/database"],"created":"2022-08-02T01:12:16.575+08:00","updated":"2023-08-27T13:23:13.161+08:00"}
 ---
 
 
