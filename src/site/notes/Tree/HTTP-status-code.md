@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/http-status-code/","tags":["CS/web/HTTP","CS/programming-languages/java/javaweb/HTTP"],"created":"2022-08-11T11:17:03.320+08:00","updated":"2023-08-27T03:11:15.507+08:00"}
+{"dg-publish":true,"dg-path":"  HTTP-status-code.md","permalink":"/http-status-code/","tags":["CS/web/HTTP","CS/programming-languages/java/javaweb/HTTP"],"created":"2022-08-11T11:17:03.320+08:00","updated":"2023-08-27T03:11:15.507+08:00"}
 ---
 
 
