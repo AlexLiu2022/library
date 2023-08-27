@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/spring-security/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2023-06-05T18:30:00.214+08:00","updated":"2023-08-27T03:51:02.066+08:00"}
+{"dg-publish":true,"dg-path":"  spring-security.md","permalink":"/spring-security/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2023-06-05T18:30:00.214+08:00","updated":"2023-08-27T03:51:02.066+08:00"}
 ---
 
 
