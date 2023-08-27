@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/elastic-stack/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T15:19:15.872+08:00","updated":"2023-08-27T05:13:57.410+08:00"}
+{"dg-publish":true,"dg-path":"  elastic-stack.md","permalink":"/elastic-stack/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T15:19:15.872+08:00","updated":"2023-08-27T05:13:57.410+08:00"}
 ---
 
 
