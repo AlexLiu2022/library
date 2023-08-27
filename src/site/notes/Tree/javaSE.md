@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-08-27T13:29:42.232+08:00"}
+{"dg-publish":true,"dg-path":"  javaSE.md","permalink":"/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-08-27T13:29:42.232+08:00"}
 ---
 
 
