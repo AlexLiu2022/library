@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-08-27T05:12:11.249+08:00"}
+{"dg-publish":true,"dg-path":"  microservices.md","permalink":"/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-08-27T05:12:11.249+08:00"}
 ---
 
 
