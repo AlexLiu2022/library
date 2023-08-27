@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mybatis-plus/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2023-05-29T20:25:10.357+08:00","updated":"2023-08-27T03:49:53.113+08:00"}
+{"dg-publish":true,"dg-path":"  mybatis-plus.md","permalink":"/mybatis-plus/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2023-05-29T20:25:10.357+08:00","updated":"2023-08-27T03:49:53.113+08:00"}
 ---
 
 
