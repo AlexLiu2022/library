@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/irony/","tags":["arts/literature"],"created":"2022-10-31T22:39:13.152+08:00","updated":"2023-08-27T03:26:54.954+08:00"}
+{"dg-publish":true,"dg-path":"  irony.md","permalink":"/irony/","tags":["arts/literature"],"created":"2022-10-31T22:39:13.152+08:00","updated":"2023-08-27T03:26:54.954+08:00"}
 ---
 
 
