@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/proxy-pattern/","tags":["CS/design-patterns/structural-patterns"],"created":"2022-08-16T15:16:19.644+08:00","updated":"2023-08-27T04:46:54.392+08:00"}
+{"dg-publish":true,"dg-path":"  proxy-pattern.md","permalink":"/proxy-pattern/","tags":["CS/design-patterns/structural-patterns"],"created":"2022-08-16T15:16:19.644+08:00","updated":"2023-08-27T04:46:54.392+08:00"}
 ---
 
 
