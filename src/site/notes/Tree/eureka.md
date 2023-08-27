@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/eureka/","tags":["CS/microservices/middlewares"],"created":"2022-11-04T17:48:28.275+08:00","updated":"2023-08-27T05:13:02.496+08:00"}
+{"dg-publish":true,"dg-path":"  eureka.md","permalink":"/eureka/","tags":["CS/microservices/middlewares"],"created":"2022-11-04T17:48:28.275+08:00","updated":"2023-08-27T05:13:02.496+08:00"}
 ---
 
 
