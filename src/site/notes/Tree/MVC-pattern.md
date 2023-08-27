@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/mvc-pattern/","tags":["CS/design-patterns/javaEE-design-patterns"],"created":"2022-08-15T20:10:36.716+08:00","updated":"2023-08-27T04:45:41.015+08:00"}
+{"dg-publish":true,"dg-path":"  MVC-pattern.md","permalink":"/mvc-pattern/","tags":["CS/design-patterns/javaEE-design-patterns"],"created":"2022-08-15T20:10:36.716+08:00","updated":"2023-08-27T04:45:41.015+08:00"}
 ---
 
 
