@@ -37,8 +37,8 @@
               {% endfor %}
             </div>
           {% endif %}
-          
-      {% for imp in dynamics.common.header %}
+          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+          {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.header %}
