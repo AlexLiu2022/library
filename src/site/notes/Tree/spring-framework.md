@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/spring-framework/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-15T15:43:21.005+08:00","updated":"2023-08-27T03:50:56.017+08:00"}
+{"dg-publish":true,"dg-path":"  spring-framework.md","permalink":"/spring-framework/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-15T15:43:21.005+08:00","updated":"2023-08-27T03:50:56.017+08:00"}
 ---
 
 
