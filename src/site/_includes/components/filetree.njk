@@ -46,15 +46,23 @@
          <div class="sidebar-nav">
             <ul>
                 <li class="current">
-                    current TOC
+                    All Notes
                 </li>
                 <li>
-                    All Notes
+                    current TOC
                 </li>
             </ul>
         </div>
             <div class="sidebar-panel-container">
-                
+
+                <div class="item" style="display: block;">
+                <div class="site-overview">
+               {% for fileOrFolderName, fileOrFolder in filetree -%}
+                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
+               {% endfor -%}
+                </div>
+                </div>
+
                 {% if settings.dgShowToc === true %}
                 <div class="item">
                 {%set tocHtml= (content and (content|toc)) %}{%if tocHtml %}
@@ -66,14 +74,6 @@
                 {%endif%}
                 </div>
                 {% endif %}
-
-                <div class="item" style="display: block;">
-                <div class="site-overview">
-               {% for fileOrFolderName, fileOrFolder in filetree -%}
-                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
-               {% endfor -%}
-                </div>
-                </div>
             </div>
         </div> 
         </nav>
