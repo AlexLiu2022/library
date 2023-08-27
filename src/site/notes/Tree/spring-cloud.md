@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/spring-cloud/","tags":["CS/programming-languages/java/java-frameworks","CS/architecture/distributed-architecture/microservices"],"created":"2022-10-03T16:32:50.798+08:00","updated":"2023-08-27T05:08:33.404+08:00"}
+{"dg-publish":true,"dg-path":"  spring-cloud.md","permalink":"/spring-cloud/","tags":["CS/programming-languages/java/java-frameworks","CS/architecture/distributed-architecture/microservices"],"created":"2022-10-03T16:32:50.798+08:00","updated":"2023-08-27T05:08:33.404+08:00"}
 ---
 
 
