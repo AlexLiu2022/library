@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/spring-boot/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-17T18:19:35.391+08:00","updated":"2023-08-27T03:50:43.937+08:00"}
+{"dg-publish":true,"dg-path":"  spring-boot.md","permalink":"/spring-boot/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-17T18:19:35.391+08:00","updated":"2023-08-27T03:50:43.937+08:00"}
 ---
 
 
