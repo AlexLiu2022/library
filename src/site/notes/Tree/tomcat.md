@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/tomcat/","tags":["CS/web/web-server ","CS/programming-languages/java/javaweb/web-server"],"created":"2022-08-11T14:11:57.055+08:00","updated":"2023-08-27T03:20:33.999+08:00"}
+{"dg-publish":true,"dg-path":"  tomcat.md","permalink":"/tomcat/","tags":["CS/web/web-server ","CS/programming-languages/java/javaweb/web-server"],"created":"2022-08-11T14:11:57.055+08:00","updated":"2023-08-27T03:20:33.999+08:00"}
 ---
 
 
