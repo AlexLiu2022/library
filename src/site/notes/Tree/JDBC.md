@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/jdbc/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:31:16.042+08:00","updated":"2023-08-27T03:49:06.473+08:00"}
+{"dg-publish":true,"dg-path":"  JDBC.md","permalink":"/jdbc/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:31:16.042+08:00","updated":"2023-08-27T03:49:06.473+08:00"}
 ---
 
 
