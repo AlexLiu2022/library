@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/typescript/","tags":["CS/web","CS/programming-languages "],"created":"2023-05-29T22:18:52.481+08:00","updated":"2023-08-27T03:03:00.092+08:00"}
+{"dg-publish":true,"dg-path":"  typescript.md","permalink":"/typescript/","tags":["CS/web","CS/programming-languages "],"created":"2023-05-29T22:18:52.481+08:00","updated":"2023-08-27T03:03:00.092+08:00"}
 ---
 
 
