@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/decorator-pattern/","tags":["CS/design-patterns/structural-patterns"],"created":"2022-08-15T20:16:56.044+08:00","updated":"2023-08-27T04:44:54.562+08:00"}
+{"dg-publish":true,"dg-path":"  decorator-pattern.md","permalink":"/decorator-pattern/","tags":["CS/design-patterns/structural-patterns"],"created":"2022-08-15T20:16:56.044+08:00","updated":"2023-08-27T04:44:54.562+08:00"}
 ---
 
 
