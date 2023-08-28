@@ -77,11 +77,10 @@ body .toc-container li::before {
 }
 
 body nav.navbar {
-    top:10px;
     right:10px;
     left:10px;
     width:calc(100% - 20px);
-    border-radius:10px;
+    border-radius:6px;
     z-index:99999;
 }
 
