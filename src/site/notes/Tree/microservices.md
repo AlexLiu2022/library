@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  microservices.md","permalink":"/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-08-27T05:12:11.249+08:00"}
+{"dg-publish":true,"dg-path":"  microservices.md","permalink":"/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-08-28T05:59:28.116+08:00"}
 ---
 
 
@@ -46,7 +46,7 @@ details see [[Tree/spring-cloud\|spring-cloud]]
 
 - 基于RestTemplate,发起的[[Tree/HTTP\|http]]请求实现远程调用
 - http请求做远程调用是与语言无关的调用，只要知道对方
-的p、端口、接口路径、请求参数即可。
+的ip、端口、接口路径、请求参数即可。
 
 ## 提供者与消费者
 - 服务提供者：一次业务中，被其它微服务调用的服务。（提供接口给其它微服务)
