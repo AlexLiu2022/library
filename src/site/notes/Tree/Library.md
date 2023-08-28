@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T07:55:09.165+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T07:57:44.483+08:00"}
 ---
 
 
@@ -31,10 +31,3 @@
 ## Arts
 
 -  [[Tree/literature\|literature]] 
-
-
-<style>
-.cm-s-obsidian{
-margin-top: 30px !important;
-}
-<style>
