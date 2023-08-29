@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T08:13:04.915+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T16:32:21.969+08:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 # Disclaimer
 
->Notes are made up of information on the Internet, If you have a copyright problem, contact me to delete.
+>Notes are made up of information on the Internet. If you have a copyright problem, contact me to delete.
 
 # Subjects
 
