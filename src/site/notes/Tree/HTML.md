@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-08-29T18:54:57.847+08:00"}
+{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-08-29T19:04:58.144+08:00"}
 ---
 
 
@@ -63,7 +63,7 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 
 #### 加粗
 
-有两个标记（推荐strong)
+有两个标记（推荐`strong`)
 
 
 ```html
@@ -90,7 +90,7 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 #### 上下标和下划线
 
 ```html
- <u>文本<u>下划线
+ <u>文本</u>下划线
  <sub></sub>下标
  <sup></sup>上标
 ```
@@ -99,7 +99,7 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 ### div和span标签
 
 - div标签，没有具体含义，用来划分页面的区域，独占一行。
-- span标签,没有实际意义，主要应用在对于文本独立修饰的时候，内容有多宽就占用多宽的空间距离。
+- span标签，没有实际意义，主要应用在对于文本独立修饰的时候，内容有多宽就占用多宽的空间距离。
 
 ### 图片标签
 
@@ -115,7 +115,7 @@ The HyperText Markup Language or HTML is the standard markup language for docume
  
  <a href=“路径” title=“鼠标悬停上去之后的提示信息” target=“规定在何处打开文档"> 内容 </a>
  ```
- Target属性：规定在何处打开文档
+ `Target`属性：规定在何处打开文档
  - `target="\_self"`  默认值 当前页打开
 - `target="\_blank"` 新窗口打开
 
@@ -124,8 +124,8 @@ The HyperText Markup Language or HTML is the standard markup language for docume
  #### 有序列表
 ```html
 	 <ol type="A" start="4">
-	 <li>有序列表<li>
-	 <li>有序列表<li>
+	 <li>有序列表</li>
+	 <li>有序列表</li>
 	 </ol>
 ```
  `type`类型 `start`开始(取值只是是数字)
@@ -135,8 +135,8 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 ```html
 	 <ul>
 	 type = disc circle square none
-	 <li>无序列表<li>
-	 <li>无序列表<Ii>
+	 <li>无序列表</li>
+	 <li>无序列表</li>
 	 <ul>
 ```
 
@@ -196,15 +196,15 @@ Form中method`post`和`get`的区别:
 Information Service互联网信息服务)中最大量为80KB,IS5中为100KB
 5. get安全性非常低，post安全性较高。但是执行效率却比Post方法好。
 
-   `<input/>`
+`<input/>`
 
  A. 属性type定义输入框的类型
-
-	 a)文本框type="text"  密码框type=“password" 
-	 b)提交框type="submit"和<button>提交按钮<button>一样  提交信息到action指定到地址
-	 c)按钮框type="button" 单纯的按钮
-	 d)重置框type="reset" 清空的效果
-
+```
+	a)文本框type="text"  密码框type=“password" 
+	b)提交框type="submit"和<button>提交按钮<button>一样  提交信息到action指定到地址
+	c)按钮框type="button" 单纯的按钮
+	d)重置框type="reset" 清空的效果
+```
  B. 属性placeholder描述输入字段预期值的简短的提示信息。兼容到IE8以上
  C. 属性name必须设置，否则在提交表单时，用户在其中输入的数据不会被发送给服务器
  D. 属性value
@@ -214,12 +214,12 @@ Information Service互联网信息服务)中最大量为80KB,IS5中为100KB
 
 ## 特殊符号
 
-| 特殊符号 | 解释                                                  | 
-| -------- | ----------------------------------------------------- |
-| 尖角号   | \&lt;左尖角号                                           |
-|          |\&gt;右尖角号                                          |
+| 特殊符号 | 解释                                                   |
+| -------- | ------------------------------------------------------ |
+| 尖角号   | \&lt;左尖角号                                          |
+|          | \&gt;右尖角号                                          |
 | 空格     | \&nbsp;该空格占据宽度受【字体】影响明显而强烈          |
 |          | \&emsp;占据的宽度正好是1个中文宽度且基本上不受字体影响 |
 | 版权     | \&copy;©                                               |
-| 商标     | \&trade;TM \&reg;®                                      |
+| 商标     | \&trade;TM \&reg;®                                     |
 
