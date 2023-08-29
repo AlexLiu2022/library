@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T16:32:21.969+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T18:33:11.851+08:00"}
 ---
 
 
@@ -25,6 +25,8 @@
 - [[Tree/CS\|Computer Science]] 
 - [[Tree/Mathematics\|Mathematics]]
 - [[Tree/Physics\|Physics]]
+- [[Chemistry\|Chemistry]]
+- [[Biology\|Biology]]
 
 ## Philosophy
 
