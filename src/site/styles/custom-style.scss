@@ -164,8 +164,9 @@ body nav.filetree-sidebar h1::before {
 
 .toc-container {
     height: 100%;
-    max-height: 300px;
+    max-height: 365px;
     overflow-y: auto;
+    margin-bottom: 0;
     border-left: 1px solid var(--text-accent);
     ul {
         list-style-type: none;
