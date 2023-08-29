@@ -146,6 +146,7 @@ body nav.filetree-sidebar h1::before {
 
 .toc {
     width: 90%;
+    height: 100%;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
@@ -162,6 +163,8 @@ body nav.filetree-sidebar h1::before {
 }
 
 .toc-container {
+    height: 100%;
+    max-height: 300px;
     overflow-y: auto;
     border-left: 1px solid var(--text-accent);
     ul {
@@ -209,9 +212,13 @@ li.current {
 }
 
 .item {
+    height: 100%;
     display: none;
 }
 
 .site-overview {
     display: inline-block;
+}
+.sidebar-panel-container{
+    height: 90%;
 }
