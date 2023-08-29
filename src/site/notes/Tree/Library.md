@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T07:57:44.483+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T08:00:16.373+08:00"}
 ---
 
 
-<h4> My Knowledge Library.
-<a href = "https://eating.work" target = "_blank"><span>To Blog ↵</span></a> &nbsp;
+<h4> My Knowledge Library. 
+&nbsp;&nbsp;
+<a href = "https://eating.work" target = "_blank"><span>To Blog ↵</span></a>
+&nbsp;
 <a href = "https://files.freezing.cool" target = "_blank"><span>To Files ↵</span></a>
 </h4>
 
