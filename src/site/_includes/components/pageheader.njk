@@ -1,6 +1,8 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:site_name" content="Alex Liu's Notes"> 
+{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
+<meta property="og:type" content="website">
 <meta property="og:locale" content="en"> 
+<meta property="og:image" content="https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/scroll.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://fastly.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.min.js"></script>
 <script>
     mermaid.initialize({
@@ -33,13 +35,6 @@
 <link href="{{style}}" rel="stylesheet">
 {%- endfor -%}
 
-{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
-
-{% if metatags %}
-    {% for name, content in metatags %}
-        <meta name="{{ name }}" content="{{ content }}">
-    {% endfor %}
-{% endif %}
 
 {% if meta.styleSettingsCss %}
     <style>
