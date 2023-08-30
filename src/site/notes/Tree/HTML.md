@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-08-29T19:04:58.144+08:00"}
+{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-08-30T18:47:46.594+08:00"}
 ---
 
 
@@ -116,8 +116,8 @@ The HyperText Markup Language or HTML is the standard markup language for docume
  <a href=“路径” title=“鼠标悬停上去之后的提示信息” target=“规定在何处打开文档"> 内容 </a>
  ```
  `Target`属性：规定在何处打开文档
- - `target="\_self"`  默认值 当前页打开
-- `target="\_blank"` 新窗口打开
+ - `target="_self"`  默认值 当前页打开
+- `target="_blank"` 新窗口打开
 
 ### 列表
 
