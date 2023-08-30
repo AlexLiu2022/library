@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <meta name="description" content="Alex Liu's Notes">
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
