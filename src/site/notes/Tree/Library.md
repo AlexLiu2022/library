@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-29T18:33:11.851+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-08-30T18:26:22.860+08:00"}
 ---
 
 
 <h4> My Knowledge Library. 
 &nbsp;&nbsp;
-<a href = "https://eating.work" target = "_blank"><span>To Blog ↗︎</span></a>
+<a href = "https://eating.work" target = "\_blank"><span>To Blog ↗︎</span></a>
 &nbsp;
-<a href = "https://files.freezing.cool" target = "_blank"><span>To Files ↗︎</span></a>
+<a href = "https://files.freezing.cool" target = "\_blank"><span>To Files ↗︎</span></a>
 </h4>
 
 > This is for my own reference, so there may be Chinese in it. I'll try to make this site helpful to others as well.
