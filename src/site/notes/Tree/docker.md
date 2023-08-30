@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  docker.md","permalink":"/docker/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T16:03:55.456+08:00","updated":"2023-08-27T05:13:41.629+08:00"}
+{"dg-publish":true,"dg-path":"  docker.md","permalink":"/docker/","tags":["CS/microservices/middlewares"],"created":"2022-09-10T16:03:55.456+08:00","updated":"2023-08-30T22:07:43.199+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Docke解决大型项目依赖关系复杂，不同组件依赖的兼容性问题方法：
 
-- Docker允许开发中将应用、依赖、函数库、配置一起打包，形成可移- 植镜像
+- Docker允许开发中将应用、依赖、函数库、配置一起打包，形成可移植镜像
 - Docker应用运行在容器中，使用沙箱机制，相互隔离
 
 Docker解决开发、测试、生产环境有差异问题方法：
