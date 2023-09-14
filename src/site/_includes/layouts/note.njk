@@ -6,8 +6,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}">
-    <meta name="description" content="One of Alex Liu's Notes">
-    <meta property="og:description" content="One of Alex Liu's Notes">
+    <meta name="description" content="One of Alex Liu's Notes.">
+    <meta property="og:description" content="One of Alex Liu's Notes.">
 
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
