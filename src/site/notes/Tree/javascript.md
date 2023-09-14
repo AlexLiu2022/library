@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  javascript.md","permalink":"/javascript/","tags":["CS/web","CS/programming-languages "],"created":"2022-08-02T16:48:26.018+08:00","updated":"2023-08-27T03:02:33.781+08:00"}
+{"dg-publish":true,"dg-path":"  javascript.md","permalink":"/javascript/","tags":["CS/web","CS/programming-languages "],"created":"2022-08-02T16:48:26.018+08:00","updated":"2023-09-14T17:17:36.430+08:00"}
 ---
 
 - [[Tree/typescript\|typescript]], superset of javascript .
@@ -288,7 +288,7 @@ As calls become more nested, the code becomes deeper and increasingly more diffi
 
 That’s sometimes called “callback hell” or “pyramid of doom.”
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-pyramid-of-doom-in-js-callbacks.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-pyramid-of-doom-in-js-callbacks.png)
 
 The “pyramid” of nested calls grows to the right with every asynchronous action. Soon it spirals out of control.
 
@@ -374,7 +374,7 @@ The `promise` object returned by the `new Promise` constructor has these interna
 
 So the executor eventually moves promise to one of these states:
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-01.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-01.png)
 
 Later we’ll see how “fans” can subscribe to these changes.
 
@@ -395,7 +395,7 @@ We can see two things by running the code above:
 
 After one second of “processing”, the executor calls `resolve("done")` to produce the result. This changes the state of the `promise` object:
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-02.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-02.png)
 
 
 That was an example of a successful job completion, a “fulfilled promise”.
@@ -409,7 +409,7 @@ let promise = new Promise(function(resolve, reject) {
 ```
 The call to `reject(...)` moves the promise object to `"rejected"` state:
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-03.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-03.png)
 
 To summarize, the executor should perform a job (usually something that takes time) and then call resolve or reject to change the state of the corresponding promise object.
 
@@ -704,7 +704,7 @@ Here the flow is:
 4. …and so on.
 As the result is passed along the chain of handlers, we can see a sequence of `alert` calls: `1` → `2` → `4`.
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-01.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-01.png)
 
 
 
@@ -738,7 +738,7 @@ promise.then(function(result) {
 What we did here is just several handlers to one promise. They don’t pass the result to each other; ==instead they process it independently.==
 
 Here’s the picture (compare it with the chaining above):
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-02.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-02.png)
 
 
 All `.then` on the same promise get the same result – the result of that promise. So in the code above all `alert` show the same: 1.
@@ -1003,7 +1003,7 @@ If a `.then` (or`catch/finally`, doesn’t matter) handler returns a promise, th
 
 Here’s a full picture:
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-03.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-js-promise-chain-03.png)
 
 
 ## Async/await
@@ -1317,7 +1317,7 @@ Let’s say we have 3 nested elements FORM > DIV > P with a handler on each of t
 </form>
 ```
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-01.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-01.png)
 
 A click on the inner `<p>` first runs `onclick`:
 
@@ -1326,7 +1326,7 @@ A click on the inner `<p>` first runs `onclick`:
 3. Then on the outer`<form>`.
 And so on upwards till the `document` object.
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-02.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-02.png)
 
 
 So if we click on `<p>`, then we’ll see 3 alerts: `p` → `div` → `form`.
@@ -1415,7 +1415,7 @@ The standard DOM Events describes 3 phases of event propagation:
 
 Here’s the picture, taken from the specification, of the capturing `(1)`, target `(2)`and bubbling `(3)` phases for a click event on a `<td>` inside a table:
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-03.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-bubbling-and-capturing-events-in-js-03.png)
 
 
 That is: for a click on `<td>` the event first goes through the ancestors chain down to the element (capturing phase), then it reaches the target and triggers there (target phase), and then it goes up (bubbling phase), calling handlers on its way.
