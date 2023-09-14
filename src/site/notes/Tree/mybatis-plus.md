@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  mybatis-plus.md","permalink":"/mybatis-plus/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2023-05-29T20:25:10.357+08:00","updated":"2023-08-27T03:49:53.113+08:00"}
+{"dg-publish":true,"dg-path":"  mybatis-plus.md","permalink":"/mybatis-plus/","tags":["CS/programming-languages/java/java-frameworks"],"created":"2023-05-29T20:25:10.357+08:00","updated":"2023-09-14T17:17:29.712+08:00"}
 ---
 
 
@@ -86,7 +86,7 @@ public class TestMpDemo1 {
 
 ## 条件查询
 
-![diagram-of-mp-conditional-query.png](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-mp-conditional-query.png)
+![diagram-of-mp-conditional-query.png](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-mp-conditional-query.png)
 
 ```java
  @Test
