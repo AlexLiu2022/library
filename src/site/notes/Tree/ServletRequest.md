@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  ServletRequest.md","permalink":"/servlet-request/","tags":["CS/programming-languages/java/javaweb/web-server/servlet"],"created":"2022-08-13T02:03:53.109+08:00","updated":"2023-08-27T03:51:47.639+08:00"}
+{"dg-publish":true,"dg-path":"  ServletRequest.md","permalink":"/servlet-request/","tags":["CS/programming-languages/java/javaweb/web-server/servlet"],"created":"2022-08-13T02:03:53.109+08:00","updated":"2023-09-14T17:17:40.850+08:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Servlet程序通过ServletRequest封装获取到的HTTP请求数据
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/inheritance-of-ServletRequest.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/inheritance-of-ServletRequest.png)
 
 
 ---
