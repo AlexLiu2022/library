@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  design-patterns.md","permalink":"/design-patterns/","tags":["CS"],"created":"2022-08-15T19:50:07.984+08:00","updated":"2023-08-27T03:40:06.503+08:00"}
+{"dg-publish":true,"dg-path":"  design-patterns.md","permalink":"/design-patterns/","tags":["CS"],"created":"2022-08-15T19:50:07.984+08:00","updated":"2023-09-14T17:17:39.682+08:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/relationships-between-design-patterns.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/relationships-between-design-patterns.png)
 
 
 # Principles
