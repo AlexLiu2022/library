@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Servlet.md","permalink":"/servlet/","tags":["CS/web/web-server","CS/programming-languages/java/javaweb/web-server"],"created":"2022-08-11T14:23:46.846+08:00","updated":"2023-08-27T03:07:52.231+08:00"}
+{"dg-publish":true,"dg-path":"  Servlet.md","permalink":"/servlet/","tags":["CS/web/web-server","CS/programming-languages/java/javaweb/web-server"],"created":"2022-08-11T14:23:46.846+08:00","updated":"2023-09-14T17:17:40.414+08:00"}
 ---
 
 
@@ -97,7 +97,7 @@ String getServletInfo()
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/architecture-of-servlet.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/architecture-of-servlet.png)
 
 ---
 
