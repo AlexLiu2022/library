@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-14T14:03:13.362+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-15T00:00:49.061+08:00"}
 ---
 
 
 <h4> My Knowledge Library. 
 &nbsp;&nbsp;
-<a href = "https://liu.xyz" target = "_blank"><span>To Blog ↗︎</span></a>
+<a href = "https://alex.liu.xyz" target = "_blank"><span>To Blog ↗︎</span></a>
 &nbsp;
 <a href = "https://files.liu.xyz" target = "_blank"><span>To Files ↗︎</span></a>
 </h4>
