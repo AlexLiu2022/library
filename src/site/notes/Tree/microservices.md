@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  microservices.md","permalink":"/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-08-28T05:59:28.116+08:00"}
+{"dg-publish":true,"dg-path":"  microservices.md","permalink":"/microservices/","tags":["CS/architecture"],"created":"2022-09-08T02:15:29.746+08:00","updated":"2023-09-14T17:17:30.922+08:00"}
 ---
 
 
@@ -18,15 +18,15 @@
 
 ##  Structure  
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microsevices-structure.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microsevices-structure.png)
 
 ## Tech-Stack Comparison
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microservices-tech-stack-comparison.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microservices-tech-stack-comparison.png)
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microservices-tech-stack-companies-may-use.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-microservices-tech-stack-companies-may-use.png)
 
 
 ## SpringCloud
