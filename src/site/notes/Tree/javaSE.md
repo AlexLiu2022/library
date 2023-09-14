@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  javaSE.md","permalink":"/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-08-27T13:29:42.232+08:00"}
+{"dg-publish":true,"dg-path":"  javaSE.md","permalink":"/java-se/","tags":["CS/programming-languages/java"],"created":"2022-08-02T11:14:51.000+08:00","updated":"2023-09-14T17:17:37.253+08:00"}
 ---
 
 
@@ -985,7 +985,7 @@ interface Person extends Hello {
 
 合理设计`interface`和`abstract class`的继承关系，可以充分复用代码。一般来说，公共逻辑适合放在`abstract class`中，具体逻辑放到各个子类，而接口层次代表抽象程度。可以参考Java的集合类定义的一组接口、抽象类以及具体子类的继承关系：
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-inheritance-relationships.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-inheritance-relationships.png)
 
 在使用的时候，实例化的对象永远只能是某个具体的子类，但总是通过接口去引用它，因为接口比抽象类更抽象：
 
@@ -1696,7 +1696,7 @@ classpath的设定方法有两种：
 
 假设我们有一个编译后的Hello.class，它的包名是com.example，当前目录是C:\work，那么，目录结构必须如下：
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-java-directory-structure.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-java-directory-structure.png)
 
 
 运行这个Hello.class必须在当前目录下使用如下命令：
