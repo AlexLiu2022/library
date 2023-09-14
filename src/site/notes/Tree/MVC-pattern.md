@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"  MVC-pattern.md","permalink":"/mvc-pattern/","tags":["CS/design-patterns/javaEE-design-patterns"],"created":"2022-08-15T20:10:36.716+08:00","updated":"2023-08-27T04:45:41.015+08:00"}
+{"dg-publish":true,"dg-path":"  MVC-pattern.md","permalink":"/mvc-pattern/","tags":["CS/design-patterns/javaEE-design-patterns"],"created":"2022-08-15T20:10:36.716+08:00","updated":"2023-09-14T17:17:41.571+08:00"}
 ---
 
 
 MVC模式
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-MVC.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/an-example-of-MVC.png)
 
 
 MVC是一种分层开发的模式，其中：
@@ -26,4 +26,4 @@ MVC好处
 
 MVC and 3-tier Architecture
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/MVC-and-3-tier-architecture.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/MVC-and-3-tier-architecture.png)
