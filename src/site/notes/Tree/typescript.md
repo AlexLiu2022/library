@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  typescript.md","permalink":"/typescript/","tags":["CS/web","CS/programming-languages "],"created":"2023-05-29T22:18:52.481+08:00","updated":"2023-08-27T03:03:00.092+08:00"}
+{"dg-publish":true,"dg-path":"  typescript.md","permalink":"/typescript/","tags":["CS/web","CS/programming-languages "],"created":"2023-05-29T22:18:52.481+08:00","updated":"2023-09-14T17:17:25.827+08:00"}
 ---
 
 
@@ -52,7 +52,7 @@ Then we can debug. **F5 is the shortcut **
 
 # fundamental
 ## bulid-in types
-![diagram-of-build-in-types-of-js-ts.png](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-build-in-types-of-js-ts.png)
+![diagram-of-build-in-types-of-js-ts.png](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-build-in-types-of-js-ts.png)
 
 We can separate big number using _ like:
 ```ts
