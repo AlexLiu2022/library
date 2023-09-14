@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Elasticsearch.md","permalink":"/elasticsearch/","tags":["CS/microservices/middlewares/elastic-stack"],"created":"2022-09-10T15:28:01.621+08:00","updated":"2023-08-27T05:14:16.758+08:00"}
+{"dg-publish":true,"dg-path":"  Elasticsearch.md","permalink":"/elasticsearch/","tags":["CS/microservices/middlewares/elastic-stack"],"created":"2022-09-10T15:28:01.621+08:00","updated":"2023-09-14T17:17:43.253+08:00"}
 ---
 
 
@@ -61,5 +61,5 @@ elasticsearch是面向文档存储的，可以是数据库中的一条商品数�
 MySQL:擅长事务类型操作，可以确保数据的安全和一致性
 Elasticsearch:擅长海量数据的搜索、分析、计算
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-mysql-work-with-es.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-mysql-work-with-es.png)
 
