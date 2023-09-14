@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  java-frameworks.md","permalink":"/java-frameworks/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:04:09.409+08:00","updated":"2023-08-27T03:46:40.432+08:00"}
+{"dg-publish":true,"dg-path":"  java-frameworks.md","permalink":"/java-frameworks/","tags":["CS/programming-languages/java"],"created":"2022-08-02T17:04:09.409+08:00","updated":"2023-09-14T17:17:37.685+08:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 
 # 3-tier Architecture
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-3-tier-architecture.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-3-tier-architecture.png)
 
 **三层架构**
 
