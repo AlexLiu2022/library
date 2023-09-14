@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  eureka.md","permalink":"/eureka/","tags":["CS/microservices/middlewares"],"created":"2022-11-04T17:48:28.275+08:00","updated":"2023-08-27T05:13:02.496+08:00"}
+{"dg-publish":true,"dg-path":"  eureka.md","permalink":"/eureka/","tags":["CS/microservices/middlewares"],"created":"2022-11-04T17:48:28.275+08:00","updated":"2023-09-14T17:17:38.081+08:00"}
 ---
 
 
@@ -20,7 +20,7 @@
 		- 基于服务列表做负载均衡，选中一个微服务后发起远程调用
 
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-how-eureka-works.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-how-eureka-works.png)
 
 
 
