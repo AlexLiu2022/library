@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  maven.md","permalink":"/maven/","tags":["CS/programming-languages/java","tools/project-management"],"created":"2022-08-07T04:01:46.236+08:00","updated":"2023-08-27T03:47:20.678+08:00"}
+{"dg-publish":true,"dg-path":"  maven.md","permalink":"/maven/","tags":["CS/programming-languages/java","tools/project-management"],"created":"2022-08-07T04:01:46.236+08:00","updated":"2023-09-14T17:17:32.481+08:00"}
 ---
 
 
@@ -19,7 +19,7 @@ Maven是专门用于管理和构建java项目的工具，它的主要功能有�
 
 下图是Maven项目结构示例：
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/maven-project-structure.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/maven-project-structure.png)
 
 ---
 
@@ -92,7 +92,7 @@ Maven对项目构建的生命周期划分为3套
  
 ==同一生命周期内，执行后边的命令，前边的所有命令会自动执行==
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/maven-life-circle.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/maven-life-circle.png)
 
 ---
 
@@ -133,14 +133,14 @@ Web项目结构：
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/developing-maven-web-project.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/developing-maven-web-project.png)
 
 ---
 - 部署的JavaWeb项目结构：开发完成，可以部署的项目
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/finished-maven-web-project.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/finished-maven-web-project.png)
 
 ---
 - 编译后的Java字节码文件和resources的资源文件，放到WEB-lNF下的classes目录下
