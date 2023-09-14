@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  spring-framework.md","permalink":"/spring-framework/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-15T15:43:21.005+08:00","updated":"2023-08-27T03:50:56.017+08:00"}
+{"dg-publish":true,"dg-path":"  spring-framework.md","permalink":"/spring-framework/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-15T15:43:21.005+08:00","updated":"2023-09-14T17:17:28.454+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 # Architecture
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/architecture-of-spring-framwork.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/architecture-of-spring-framwork.png)
 
 # Core Container
 
@@ -671,7 +671,7 @@ BookDao bookDao = ctx.getBean(BookDao.class);
 
 ### Hierarchy
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/hierarchy-fo-IoC-container.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/hierarchy-fo-IoC-container.png)
 
 
 BeanFactory初始化
@@ -946,7 +946,7 @@ public DataSource dataSource(BookService bookService){
 
 ## Summary
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/spring-framwork-IoC-summary.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/spring-framwork-IoC-summary.png)
 
 ---
 
@@ -1014,7 +1014,7 @@ Spring理念：无入侵式/无侵入式
 
 ## Core concepts
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-AOP.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-AOP.png)
 
 
 - 连接点(JoinPoint):程序执行过程中的任意位置，粒度为执行方法、抛出异常、设置变量等
@@ -1629,7 +1629,7 @@ public class LogServiceImpl implements LogService{
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/transaction-propagation-in-spring-framwork.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/transaction-propagation-in-spring-framwork.png)
 
 ---
 
