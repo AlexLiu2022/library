@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  spring-MVC.md","permalink":"/spring-mvc/","tags":["CS/web/framworks","CS/programming-languages/java/java-frameworks/spring/spring-framework"],"created":"2022-08-16T20:25:27.151+08:00","updated":"2023-08-27T03:12:39.161+08:00"}
+{"dg-publish":true,"dg-path":"  spring-MVC.md","permalink":"/spring-mvc/","tags":["CS/web/framworks","CS/programming-languages/java/java-frameworks/spring/spring-framework"],"created":"2022-08-16T20:25:27.151+08:00","updated":"2023-09-14T17:17:29.275+08:00"}
 ---
 
 
@@ -148,7 +148,7 @@ protected WebApplicationContext createRootApplicationContext(){
 
 入门案例工作流程分析
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-MVC-initialization.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-MVC-initialization.png)
 
 
 启动服务器初始化过程
