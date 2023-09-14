@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  spring-security.md","permalink":"/spring-security/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2023-06-05T18:30:00.214+08:00","updated":"2023-08-27T03:51:02.066+08:00"}
+{"dg-publish":true,"dg-path":"  spring-security.md","permalink":"/spring-security/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2023-06-05T18:30:00.214+08:00","updated":"2023-09-14T17:17:26.324+08:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 Spring Security进行认证和鉴权的时候,是利用的一系列的[[Tree/Filter\|Filter]]来进行拦截的。
 
-![diagram-of-spring-security-impl-filter-chain.png](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-security-impl-filter-chain.png)
+![diagram-of-spring-security-impl-filter-chain.png](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-security-impl-filter-chain.png)
 
 
 如图所示，一个请求想要访问到API就会从左到右经过蓝线框里的过滤器，其中**绿色部分是负责认证的过滤器，蓝色部分是负责异常处理，橙色部分则是负责授权**。进过一系列拦截最终访问到我们的API。
