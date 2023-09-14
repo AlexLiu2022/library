@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-08-30T18:47:46.594+08:00"}
+{"dg-publish":true,"dg-path":"  HTML.md","permalink":"/html/","tags":["CS/web","CS/mark-up-languages"],"created":"2022-08-15T01:23:31.812+08:00","updated":"2023-09-15T02:29:44.753+08:00"}
 ---
 
 
@@ -137,7 +137,7 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 	 type = disc circle square none
 	 <li>无序列表</li>
 	 <li>无序列表</li>
-	 <ul>
+	 </ul>
 ```
 
  #### 自定义列表
