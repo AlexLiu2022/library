@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  spring-boot.md","permalink":"/spring-boot/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-17T18:19:35.391+08:00","updated":"2023-08-27T03:50:43.937+08:00"}
+{"dg-publish":true,"dg-path":"  spring-boot.md","permalink":"/spring-boot/","tags":["CS/programming-languages/java/java-frameworks/spring"],"created":"2022-08-17T18:19:35.391+08:00","updated":"2023-09-14T17:17:28.869+08:00"}
 ---
 
 
@@ -62,7 +62,7 @@ SpringBoot是由Pivotal团队提供的全新框架，其设计目的是用来简
 
 ---
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-and-springboot.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-spring-and-springboot.png)
 
 
 ---
