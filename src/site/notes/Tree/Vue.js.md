@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Vue.js.md","permalink":"/vue-js/","tags":["CS/programming-languages/javascript/javascript-frameworks","CS/web/javascript/javascript-framworks"],"created":"2022-08-15T02:43:37.053+08:00","updated":"2023-08-27T03:41:11.397+08:00"}
+{"dg-publish":true,"dg-path":"  Vue.js.md","permalink":"/vue-js/","tags":["CS/programming-languages/javascript/javascript-frameworks","CS/web/javascript/javascript-framworks"],"created":"2022-08-15T02:43:37.053+08:00","updated":"2023-09-14T17:17:40.052+08:00"}
 ---
 
 
@@ -709,7 +709,7 @@ const vm = new Vue({
 - VC.prototype.\_\_proto__ ===  Vue.prototype
 - 原型链相关知识
 
-![](https://gcore.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-relationship-between-Vue-and-VueComponent.png)
+![](https://cdn.jsdelivr.net/gh/AlexLiu2022/resources/img/diagram-of-relationship-between-Vue-and-VueComponent.png)
 
 
 ## 单文件组件
