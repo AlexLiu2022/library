@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:26:40.397+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:31:45.367+08:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ==Only part of notes are made public==, mainly in the [[Tree/CS\|CS]] section, and  contents are subject to change. Tracked at [Github](https://github.com/AlexLiu2022/notes).
 
-You can subscribe to this site's RSS feed for free using the link below:
+You can subscribe to this site's RSS feed using the link below:
 ```url
 notes.liu.xyz/feed.xml
 ```
