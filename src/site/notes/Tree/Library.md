@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:07:30.232+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:11:56.620+08:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 You can subscribe to the RSS feed of this site:
 ```
-https://notes.liu.xyz/feed.xml
+notes.liu.xyz/feed.xml
 ```
 
 # Subjects
