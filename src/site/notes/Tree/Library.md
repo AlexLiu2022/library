@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:11:56.620+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:19:50.273+08:00"}
 ---
 
 
@@ -9,6 +9,8 @@
 &nbsp;
 <a href = "https://files.liu.xyz" target = "_blank"><span>To Files ↗︎</span></a>
 </h4>
+
+<br>
 
 > This is for my own reference, so there may be Chinese in it. I'll try to make this site helpful to others as well.
 
