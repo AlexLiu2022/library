@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:19:50.273+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:26:40.397+08:00"}
 ---
 
 
@@ -10,16 +10,19 @@
 <a href = "https://files.liu.xyz" target = "_blank"><span>To Files ↗︎</span></a>
 </h4>
 
-<br>
-
-> This is for my own reference, so there may be Chinese in it. I'll try to make this site helpful to others as well.
+> This is for my own reference, so there may be Chinese mixed in. I'll try to make this site helpful to others as well.
 
 ==Only part of notes are made public==, mainly in the [[Tree/CS\|CS]] section, and  contents are subject to change. Tracked at [Github](https://github.com/AlexLiu2022/notes).
 
-You can subscribe to the RSS feed of this site:
-```
+You can subscribe to this site's RSS feed for free using the link below:
+```url
 notes.liu.xyz/feed.xml
 ```
+
+# Disclaimer
+
+>Notes are made up of information on the Internet. If you have a copyright problem, contact me to delete.
+
 
 # Subjects
 
@@ -38,7 +41,3 @@ notes.liu.xyz/feed.xml
 ## Arts
 
 -  [[Tree/literature\|literature]] 
-
-# Disclaimer
-
->Notes are made up of information on the Internet. If you have a copyright problem, contact me to delete.
