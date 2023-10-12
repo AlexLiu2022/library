@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-09-20T23:31:45.367+08:00"}
+{"dg-publish":true,"dg-path":"  Library.md","permalink":"/library/","tags":["gardenEntry"],"dgShowInlineTitle":false,"created":"2022-07-31T06:00:52.233+08:00","updated":"2023-10-12T09:08:05.774+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 &nbsp;&nbsp;
 <a href = "https://alex.liu.xyz" target = "_blank"><span>To Blog ↗︎</span></a>
 &nbsp;
-<a href = "https://files.liu.xyz" target = "_blank"><span>To Files ↗︎</span></a>
+<a href = "https://files.freezing.cool" target = "_blank"><span>To Files ↗︎</span></a>
 </h4>
 
 > This is for my own reference, so there may be Chinese mixed in. I'll try to make this site helpful to others as well.
